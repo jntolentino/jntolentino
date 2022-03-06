@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Requiem4ADream
 - 👀 I’m interested in ... creating game and web projects
-- 🌱 I’m currently learning ... how to use python, js as basis
+- 🌱 I’m currently learning ...  python and js 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/jaime-nicolas-tolentino-a92418204/
 
