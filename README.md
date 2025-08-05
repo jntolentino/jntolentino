@@ -1,48 +1,64 @@
-# 👋 Hi, I'm Jaime Nicolas Tolentino (Nico)
+# 👋 Hello, I'm Jaime Nicolas Tolentino
 
 🎓 Computer Science graduate from Central Philippine University  
-💻 Passionate about building clean, functional software  
-🎮 Gamer, tech tinkerer, and retro UI enthusiast  
+💻 Passionate about building efficient, user-friendly software  
+🕹️ Retro UI enthusiast | 📷 Media officer experience | 🌱 Always learning
 
 ---
 
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=fff)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-- 🎨 [Retro Windows 95 Portfolio](https://github.com/YOURUSERNAME/YOURPROJECT) – React-based retro desktop portfolio
-- 🧮 [Asset Management System](https://github.com/YOURUSERNAME/YOURPROJECT) – MERN stack with role-based access
-  
+## 🚀 Featured Projects
+
+🔹 **in-progress [Retro Windows 95 Portfolio]**  
+React desktop-style portfolio with taskbar, draggable windows, and nostalgic 90s UI.
+
+🔹 **[Asset Management System]**  
+MERN stack app for asset registration, maintenance tracking, and lifecycle management with role-based access.
+
+
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![jntolentino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jntolentino&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jntolentino&layout=compact&theme=tokyonight)
 
 ---
 
-## ✨ Fun Fact
+## 🎯 About Me
 
-> “Code is like humor. When you have to explain it, it’s bad.”
-
-- I love pixel art UIs
-- My dev setup is inspired by old-school Windows
-- I enjoy debugging as much as building
+- 💡 I love building apps with clean, intuitive UX
+- 📸 I used to document events as a media officer — now I apply that eye for detail to UI
+- 🎮 Inspired by vintage tech, I design interfaces with retro flair
+- 🤝 I value collaboration, communication, and continuous learning
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jntolentino1201/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jntolentino)
+
+
+---
+
+> *“Build things that last. Design things that feel.”*
+
 
 
