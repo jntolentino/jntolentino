@@ -59,7 +59,7 @@ Collaborative project focusing on desktop and mobile application design with emp
 I'm always interested in collaborating on exciting projects and learning from fellow developers. Feel free to reach out!
 
 - 📧 Email: jaimenicolastolentino@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/jnt](https://www.linkedin.com/in/jnt)
+- 💼 LinkedIn: [linkedin.com/in/jnt](https://www.linkedin.com/in/jntolentino1201)
 
 ---
 ⭐️ From [Jaime Nicolas Tolentino](https://github.com/jntolentino)
